@@ -1,5 +1,5 @@
 # Install necessary libraries
-!pip install googletrans==4.0.0-rc1 gTTS ipywidgets
+pip install googletrans==4.0.0-rc1 gTTS ipywidgets
 
 # Import required libraries
 from gtts import gTTS
